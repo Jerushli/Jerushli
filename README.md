@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Jerushlin Jose JB 👋
 
-<!--
-**Jerushli/Jerushli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer** based in Chennai, India. I build LLM-powered applications,
+agentic workflows and secure browser automation.
 
-Here are some ideas to get you started:
+Currently working as an AI Engineer Intern at RAKA Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- **[KUDOO](https://github.com/Jerushli/KUDOO-)**: LLM data-analysis agent with tool calling and query routing
+- **[AllConnect](https://github.com/Jerushli/Allconnect-automation)**: Playwright browser automation with JWE encryption
+- **[Fiber Price Comparator](https://github.com/Jerushli/FIber-comparion)**: Chennai fiber plan comparison using web scraping
+
+## Tech
+Python · JavaScript · SQL · FastAPI · Node.js · Playwright · LLMs · Agentic AI
+
+## Connect
+[Portfolio](https://jerushli.github.io) · [LinkedIn](https://www.linkedin.com/in/jerushlin-jose-244206273) · josejerushlin7@gmail.com
